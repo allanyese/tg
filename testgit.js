@@ -3,3 +3,4 @@ var b = 'asdf';
 var c = null;
 console.log(a, b, c);
 console.log('ceshi');
+console.log('123');
